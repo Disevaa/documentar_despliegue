@@ -10,7 +10,8 @@ Las tecnologias que use en este proyecto son **HTML y Java.**
 En el repositorio encontraremos los archivos de nuestro proyecto de dos manera, en la carpeta **bin** encontraremos los archivos de tipo *class*, mientras que en el **src** encontraremos los archivos de tipo Java. Luego existe una carpeta llamada **doc** que es donde encontraremos el archivo *JavaDoc* de nuestro proyecto, para acceder a el iremos a la carpeta Doc y entraremos en el archivo index.html.
 # Finalidad del repostiorio
 La finalidad de este repositorio es guardar la aplicacion para la gestion de una aplicacion para registrar llamdas y realizar un archivo JavaDoc del mismo.
-![ilust-portada ](https://user-images.githubusercontent.com/101277116/160482116-01f27bde-a430-472d-b6b5-1ab0de2e2ac9.jpg)
+![ilust-portada ](https://user-images.githubusercontent.com/101277116/160482244-0f00ce29-799e-498f-8e63-5b1d79da5488.jpg)
+
 
 
 Link a una pagina de telefonia: https://www.movistar.es/
