@@ -1,10 +1,10 @@
-# Autoria del sitio
+# Autoria
 Diego Secades Valledor
-# Apunte Biografico
+# Biografico
 Soy Diego Secades Valledor, tengo 19 años y soy un estudiante del Centro de Formacion de Avilés.
-# Finalidad de la Aplicacion
+# Aplicacion
 La finalidad de la aplicación es crear una aplicacion capaz de gestionar un registro de llamadas y calcular el coste dependiendo del lugar dependiendo de la franja horaria en la que se hace la llamada. 
-# Tecnologias Implementadas
+# Tecnologias
 Las tecnologias que use en este proyecto son **HTML y Java.**
 # Listado del contenido del repositoiro
 Aqui encontraremos los archivos de nuestro proyecto de dos manera, en la carpeta **bin** encontraremos los archivos de tipo *class*, mientras que en el **src** estan los archivos de tipo Java. Luego encontramos una carpeta llamda **doc** que es donde se encuentra el archivo *JavaDoc* de nuestro proyecto, para acceder a el iremos a la carpeta Doc y entraremos en el archivo index.html.
